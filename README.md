@@ -18,31 +18,24 @@ This repository contains a wide range of algorithms implemented in Java, organiz
 
 ## Categories
 
+
 The algorithms are categorized as follows:
 
-- [Searching Algorithms](./SearchingAlgorithms/README.md)
-  - Linear Search
-  - Binary Search
-
-- [Sorting Algorithms](./SortingAlgorithms/README.md)
-  - Bubble Sort
-  - Quick Sort
-  - Merge Sort
-  - And more...
-
-- [Greedy Algorithms](./GreedyAlgorithms/README.md)
-- [Dynamic Programming](./DynamicProgramming/README.md)
-- [Graph Algorithms](./GraphAlgorithms/README.md)
-- [Pattern Searching](./PatternSearching/README.md)
-- [Recursion](./Recursion/README.md)
-- [Backtracking](./Backtracking/README.md)
-- [Divide and Conquer](./DivideAndConquer/README.md)
-- [Mathematical Algorithms](./MathematicalAlgorithms/README.md)
-- [Geometric Algorithms](./GeometricAlgorithms/README.md)
-- [Bitwise Algorithms](./BitwiseAlgorithms/README.md)
-- [Randomized Algorithms](./RandomizedAlgorithms/README.md)
-- [Branch and Bound](./BranchAndBound/README.md)
-- [Algorithms Tutorial](./AlgorithmsTutorial/README.md)
+- [Searching Algorithms](./src/SearchingAlgorithms/README.md)
+- [Sorting Algorithms](./src/SortingAlgorithms/README.md)
+- [Greedy Algorithms](./src/GreedyAlgorithms/README.md)
+- [Dynamic Programming](./src/DynamicProgramming/README.md)
+- [Graph Algorithms](./src/GraphAlgorithms/README.md)
+- [Pattern Searching](./src/PatternSearching/README.md)
+- [Recursion](./src/Recursion/README.md)
+- [Backtracking](./src/Backtracking/README.md)
+- [Divide and Conquer](./src/DivideAndConquer/README.md)
+- [Mathematical Algorithms](./src/MathematicalAlgorithms/README.md)
+- [Geometric Algorithms](./src/GeometricAlgorithms/README.md)
+- [Bitwise Algorithms](./src/BitwiseAlgorithms/README.md)
+- [Randomized Algorithms](./src/RandomizedAlgorithms/README.md)
+- [Branch and Bound](./src/BranchAndBound/README.md)
+- [Algorithms Tutorial](./src/AlgorithmsTutorial/README.md)
 
 ## Installation
 
@@ -60,7 +53,7 @@ cd Java-Algorithms
 ## Usage
 Each algorithm is contained within its own file under the appropriate category. To run an algorithm, navigate to its directory and compile the Java file using javac, then run it using java. For example, to run Bubble Sort:
 ``` 
-cd SortingAlgorithms
+cd src/SortingAlgorithms
 javac BubbleSort.java
 java BubbleSort
 ```
