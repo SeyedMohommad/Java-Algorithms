@@ -64,4 +64,23 @@ cd SortingAlgorithms
 javac BubbleSort.java
 java BubbleSort
 ```
+## Contributing
 
+Contributions are welcome! If you would like to contribute to this project, please follow these steps:
+
+    Fork the repository.
+    Create a new branch. 
+    Commit your changes.
+    Push to the branch.
+    Open a pull request.
+
+Please ensure your code adheres to the existing style and that you have tested it thoroughly.
+License
+
+This project is licensed under the MIT License - see the LICENSE file for details.
+Contact
+
+If you have any questions or suggestions, feel free to contact me at:
+
+    Email: a.amin771116@example.com
+    GitHub: SeyedMohammad
