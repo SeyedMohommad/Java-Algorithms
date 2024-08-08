@@ -77,10 +77,15 @@ Contributions are welcome! If you would like to contribute to this project, plea
 Please ensure your code adheres to the existing style and that you have tested it thoroughly.
 License
 
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the MIT License - see the [LICENSE](./LICENSE.md) file for details.
 Contact
 
 If you have any questions or suggestions, feel free to contact me at:
 
-    Email: a.amin771116@example.com
+    Email: a.amin771116@yahoo.com
     GitHub: SeyedMohammad
+
+Thank you for checking out this repository. Happy coding!
+
+Replace `a.amin771116@yahoo.com` with your actual email address if you want to include it for contact purposes. Save this text in a file named `README.md` at the root of your repository. This will provide a professional and comprehensive overview of your project.
+
