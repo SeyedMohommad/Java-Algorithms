@@ -18,5 +18,5 @@ To run the Radix Sort algorithm, compile and run the `RadixSort.java` file:
 
 ```bash
 javac SortingAlgorithms/RadixSort/RadixSort.java
-java SortingAlgorithms.RadixSort.RadixSort
+java SortingAlgorithms.src.RadixSort.RadixSort
 ```

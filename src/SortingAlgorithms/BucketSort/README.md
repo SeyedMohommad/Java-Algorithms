@@ -18,6 +18,6 @@ Given an array `{0.897, 0.565, 0.656, 0.1234, 0.665, 0.3434}`, Bucket Sort will 
 To run the Bucket Sort algorithm, compile and run the `BucketSort.java` file:
 
 ```bash
-javac SortingAlgorithms/BucketSort/BucketSort.java
-java SortingAlgorithms.BucketSort.BucketSort
+javac SortingAlgorithms/src/BucketSort/BucketSort.java
+java SortingAlgorithms.src.BucketSort.BucketSort
 ```

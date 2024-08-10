@@ -17,5 +17,5 @@ To run the Merge Sort algorithm, compile and run the `MergeSort.java` file:
 
 ```bash
 javac SortingAlgorithms/MergeSort/MergeSort.java
-java SortingAlgorithms.MergeSort.MergeSort
+java SortingAlgorithms.src.MergeSort.MergeSort
 ```

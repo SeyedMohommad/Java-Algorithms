@@ -19,5 +19,5 @@ To run the Insertion Sort algorithm, compile and run the `InsertionSort.java` fi
 
 ```bash
 javac SortingAlgorithms/InsertionSort/InsertionSort.java
-java SortingAlgorithms.InsertionSort.InsertionSort
+java SortingAlgorithms.src.InsertionSort.InsertionSort
 ```

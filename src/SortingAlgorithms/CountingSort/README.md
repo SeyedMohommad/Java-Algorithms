@@ -18,5 +18,5 @@ To run the Counting Sort algorithm, compile and run the `CountingSort.java` file
 
 ```bash
 javac SortingAlgorithms/CountingSort/CountingSort.java
-java SortingAlgorithms.CountingSort.CountingSort
+java SortingAlgorithms.src.CountingSort.CountingSort
 ```

@@ -18,5 +18,5 @@ To run the Quick Sort algorithm, compile and run the `QuickSort.java` file:
 
 ```bash
 javac SortingAlgorithms/QuickSort/QuickSort.java
-java SortingAlgorithms.QuickSort.QuickSort
+java SortingAlgorithms.src.QuickSort.QuickSort
 ```

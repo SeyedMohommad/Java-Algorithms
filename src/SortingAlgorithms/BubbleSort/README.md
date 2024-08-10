@@ -18,5 +18,5 @@ To run the Bubble Sort algorithm, compile and run the `BubbleSort.java` file:
 
 ```bash
 javac SortingAlgorithms/BubbleSort/BubbleSort.java
-java SortingAlgorithms.BubbleSort.BubbleSort
+java SortingAlgorithms.src.BubbleSort.BubbleSort
 ```

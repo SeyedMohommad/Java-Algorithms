@@ -19,5 +19,5 @@ To run the Selection Sort algorithm, compile and run the `SelectionSort.java` fi
 
 ```bash
 javac SortingAlgorithms/SelectionSort/SelectionSort.java
-java SortingAlgorithms.SelectionSort.SelectionSort
+java SortingAlgorithms.src.SelectionSort.SelectionSort
 ```

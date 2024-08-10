@@ -18,5 +18,5 @@ To run the Heap Sort algorithm, compile and run the `HeapSort.java` file:
 
 ```bash
 javac SortingAlgorithms/HeapSort/HeapSort.java
-java SortingAlgorithms.HeapSort.HeapSort
+java SortingAlgorithms.src.HeapSort.HeapSort
 ```
