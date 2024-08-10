@@ -8,15 +8,15 @@ Sorting algorithms are fundamental in computer science and are widely used in va
 
 ## Algorithms Included
 
-- [Selection Sort](./SelectionSort/README.md): A simple in-place comparison sort.
-- [Bubble Sort](./BubbleSort/README.md): A comparison-based sorting algorithm that repeatedly steps through the list.
-- [Insertion Sort](./InsertionSort/README.md): Builds the final sorted array one item at a time.
-- [Merge Sort](./MergeSort/README.md): An efficient, stable, comparison-based, divide and conquer sorting algorithm.
-- [Quick Sort](./QuickSort/README.md): An efficient, comparison-based, divide and conquer sorting algorithm.
-- [Heap Sort](./HeapSort/README.md): A comparison-based sorting algorithm that uses a binary heap data structure.
-- [Counting Sort](./CountingSort/README.md): A non-comparison sorting algorithm suitable for small range integers.
-- [Radix Sort](./RadixSort/README.md): A non-comparison sorting algorithm that processes the digits of the numbers.
-- [Bucket Sort](./BucketSort/README.md): A non-comparison sorting algorithm that distributes elements into buckets.
+- [Selection Sort](./SelectionSort): A simple in-place comparison sort.
+- [Bubble Sort](./BubbleSort): A comparison-based sorting algorithm that repeatedly steps through the list.
+- [Insertion Sort](./InsertionSort): Builds the final sorted array one item at a time.
+- [Merge Sort](./MergeSort): An efficient, stable, comparison-based, divide and conquer sorting algorithm.
+- [Quick Sort](./QuickSort): An efficient, comparison-based, divide and conquer sorting algorithm.
+- [Heap Sort](./HeapSort): A comparison-based sorting algorithm that uses a binary heap data structure.
+- [Counting Sort](./CountingSort): A non-comparison sorting algorithm suitable for small range integers.
+- [Radix Sort](./RadixSort): A non-comparison sorting algorithm that processes the digits of the numbers.
+- [Bucket Sort](./BucketSort): A non-comparison sorting algorithm that distributes elements into buckets.
 
 ## Usage
 
