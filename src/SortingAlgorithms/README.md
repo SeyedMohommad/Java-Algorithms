@@ -27,3 +27,15 @@ cd SelectionSort
 javac SelectionSort.java
 java SortingAlgorithms.src.SelectionSort.SelectionSort
 ```
+
+## Contributing
+
+Contributions to this collection are welcome! If you would like to contribute by adding new sorting algorithms, improving existing implementations, or enhancing the documentation, please follow the contribution guidelines in the main [README.md](..%2F..%2FREADME.md)
+[LICENSE.md](..%2F..%2FLICENSE.md)
+
+This project is licensed under the MIT License - see the LICENSE file for details.
+Contact
+
+If you have any questions or suggestions, feel free to contact me:
+
+    Email: a.amin771116@yahoo.com
