@@ -17,6 +17,6 @@ Given an array `{170, 45, 75, 90, 802, 24, 2, 66}`, Radix Sort will sort the arr
 To run the Radix Sort algorithm, compile and run the `RadixSort.java` file:
 
 ```bash
-javac SortingAlgorithms/RadixSort/RadixSort.java
+javac SortingAlgorithms/src/RadixSort/RadixSort.java
 java SortingAlgorithms.src.RadixSort.RadixSort
 ```

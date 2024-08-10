@@ -16,6 +16,6 @@ Given an array `{12, 11, 13, 5, 6, 7}`, Merge Sort will sort the array as `{5, 6
 To run the Merge Sort algorithm, compile and run the `MergeSort.java` file:
 
 ```bash
-javac SortingAlgorithms/MergeSort/MergeSort.java
+javac SortingAlgorithms/src/MergeSort/MergeSort.java
 java SortingAlgorithms.src.MergeSort.MergeSort
 ```

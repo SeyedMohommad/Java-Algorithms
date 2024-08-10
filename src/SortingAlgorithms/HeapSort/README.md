@@ -17,6 +17,6 @@ Given an array `{12, 11, 13, 5, 6, 7}`, Heap Sort will sort the array as `{5, 6,
 To run the Heap Sort algorithm, compile and run the `HeapSort.java` file:
 
 ```bash
-javac SortingAlgorithms/HeapSort/HeapSort.java
+javac SortingAlgorithms/src/HeapSort/HeapSort.java
 java SortingAlgorithms.src.HeapSort.HeapSort
 ```

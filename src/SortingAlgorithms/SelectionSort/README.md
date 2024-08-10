@@ -18,6 +18,6 @@ Given an array `{64, 25, 12, 22, 11}`, Selection Sort will sort the array as `{1
 To run the Selection Sort algorithm, compile and run the `SelectionSort.java` file:
 
 ```bash
-javac SortingAlgorithms/SelectionSort/SelectionSort.java
+javac SortingAlgorithms/src/SelectionSort/SelectionSort.java
 java SortingAlgorithms.src.SelectionSort.SelectionSort
 ```

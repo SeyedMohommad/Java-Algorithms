@@ -17,6 +17,6 @@ Given an array `{64, 34, 25, 12, 22, 11, 90}`, Bubble Sort will sort the array a
 To run the Bubble Sort algorithm, compile and run the `BubbleSort.java` file:
 
 ```bash
-javac SortingAlgorithms/BubbleSort/BubbleSort.java
+javac SortingAlgorithms/src/BubbleSort/BubbleSort.java
 java SortingAlgorithms.src.BubbleSort.BubbleSort
 ```

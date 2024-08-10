@@ -17,6 +17,6 @@ Given an array `{4, 2, 2, 8, 3, 3, 1}`, Counting Sort will sort the array as `{1
 To run the Counting Sort algorithm, compile and run the `CountingSort.java` file:
 
 ```bash
-javac SortingAlgorithms/CountingSort/CountingSort.java
+javac SortingAlgorithms/src/CountingSort/CountingSort.java
 java SortingAlgorithms.src.CountingSort.CountingSort
 ```

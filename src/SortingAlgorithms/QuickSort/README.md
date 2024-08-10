@@ -17,6 +17,6 @@ Given an array `{10, 7, 8, 9, 1, 5}`, Quick Sort will sort the array as `{1, 5, 
 To run the Quick Sort algorithm, compile and run the `QuickSort.java` file:
 
 ```bash
-javac SortingAlgorithms/QuickSort/QuickSort.java
+javac SortingAlgorithms/src/QuickSort/QuickSort.java
 java SortingAlgorithms.src.QuickSort.QuickSort
 ```

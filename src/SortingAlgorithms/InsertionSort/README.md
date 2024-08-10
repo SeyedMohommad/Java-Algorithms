@@ -18,6 +18,6 @@ Given an array `{12, 11, 13, 5, 6}`, Insertion Sort will sort the array as `{5, 
 To run the Insertion Sort algorithm, compile and run the `InsertionSort.java` file:
 
 ```bash
-javac SortingAlgorithms/InsertionSort/InsertionSort.java
+javac SortingAlgorithms/src/InsertionSort/InsertionSort.java
 java SortingAlgorithms.src.InsertionSort.InsertionSort
 ```
