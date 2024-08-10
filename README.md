@@ -79,6 +79,3 @@ If you have any questions or suggestions, feel free to contact me at:
     GitHub: SeyedMohammad
 
 Thank you for checking out this repository. Happy coding!
-
-Replace `a.amin771116@yahoo.com` with your actual email address if you want to include it for contact purposes. Save this text in a file named `README.md` at the root of your repository. This will provide a professional and comprehensive overview of your project.
-
