@@ -21,21 +21,21 @@ This repository contains a wide range of algorithms implemented in Java, organiz
 
 The algorithms are categorized as follows:
 
-- [Searching Algorithms](./src/SearchingAlgorithms/README.md)
-- [Sorting Algorithms](./src/SortingAlgorithms/README.md)
-- [Greedy Algorithms](./src/GreedyAlgorithms/README.md)
-- [Dynamic Programming](./src/DynamicProgramming/README.md)
-- [Graph Algorithms](./src/GraphAlgorithms/README.md)
-- [Pattern Searching](./src/PatternSearching/README.md)
-- [Recursion](./src/Recursion/README.md)
-- [Backtracking](./src/Backtracking/README.md)
-- [Divide and Conquer](./src/DivideAndConquer/README.md)
-- [Mathematical Algorithms](./src/MathematicalAlgorithms/README.md)
-- [Geometric Algorithms](./src/GeometricAlgorithms/README.md)
-- [Bitwise Algorithms](./src/BitwiseAlgorithms/README.md)
-- [Randomized Algorithms](./src/RandomizedAlgorithms/README.md)
-- [Branch and Bound](./src/BranchAndBound/README.md)
-- [Algorithms Tutorial](./src/AlgorithmsTutorial/README.md)
+- [Searching Algorithms](./src/SearchingAlgorithms/)
+- [Sorting Algorithms](./src/SortingAlgorithms/)
+- [Greedy Algorithms](./src/GreedyAlgorithms/)
+- [Dynamic Programming](./src/DynamicProgramming/)
+- [Graph Algorithms](./src/GraphAlgorithms/)
+- [Pattern Searching](./src/PatternSearching/)
+- [Recursion](./src/Recursion/)
+- [Backtracking](./src/Backtracking/)
+- [Divide and Conquer](./src/DivideAndConquer/)
+- [Mathematical Algorithms](./src/MathematicalAlgorithms/)
+- [Geometric Algorithms](./src/GeometricAlgorithms/)
+- [Bitwise Algorithms](./src/BitwiseAlgorithms/)
+- [Randomized Algorithms](./src/RandomizedAlgorithms/)
+- [Branch and Bound](./src/BranchAndBound/)
+
 
 ## Installation
 
