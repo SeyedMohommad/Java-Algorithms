@@ -30,11 +30,6 @@ The algorithms are categorized as follows:
 - [Recursion](./src/Recursion/)
 - [Backtracking](./src/Backtracking/)
 - [Divide and Conquer](./src/DivideAndConquer/)
-- [Mathematical Algorithms](./src/MathematicalAlgorithms/)
-- [Geometric Algorithms](./src/GeometricAlgorithms/)
-- [Bitwise Algorithms](./src/BitwiseAlgorithms/)
-- [Randomized Algorithms](./src/RandomizedAlgorithms/)
-- [Branch and Bound](./src/BranchAndBound/)
 
 
 ## Installation
